@@ -1,0 +1,16 @@
+{
+  "id": "1506260",
+  "name": "webpack",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7155222",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    }
+  ]
+}
